@@ -12,8 +12,6 @@ import com.fasterxml.jackson.core.type.TypeReference;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-
-
 public class DataReader {
 
 	public List<HashMap<String, String>> getJsonDataToMap() throws IOException {
@@ -27,11 +25,5 @@ public class DataReader {
 		});
 		return data;
 		
-	}
-
-	public void Test() {
-		System.out.println("Retry Test ");
-		System.out.println("Retry Test 1");
-		System.out.println("Retry Test 2 ");
 	}
 }
