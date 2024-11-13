@@ -4,25 +4,26 @@ import org.testng.annotations.Test;
 
 public class RestAPITest {
 	@Test
-	public void PostJira() {
+	public void SeleniumJira() {
 		
-		System.out.println("PostJira 1 ");
-		System.out.println("PostJira 2 ");
-		System.out.println("PostJira 3 ");
+		System.out.println("SeleniumJira 1 ");
+		System.out.println("SeleniumJira 2 ");
+		System.out.println("SeleniumJira 3 ");
 	}
 	
 	@Test
-	public void deleteJira() {
+	public void addJira() {
 		
-		System.out.println("Delete jira ");
-		//System.out.println("PostJira 1 ");
-		//System.out.println("PostJira 1 ");
+		System.out.println("add jira ");
+		System.out.println("add Jira 1 ");
+		System.out.println("add Jira 1 ");
 	}
 	
-	public void Test() {
-		System.out.println("Retry Test ");
-		System.out.println("Retry Test 1");
-		System.out.println("Retry Test 2 ");
+	@Test
+	public void Testfor() {
+		System.out.println("Retry Testfor ");
+		System.out.println("Retry Testfor 1");
+		System.out.println("Retry Testfor 2 ");
 	}
 	
 
