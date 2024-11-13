@@ -26,5 +26,12 @@ public class RestAPITest {
 		System.out.println("Retry Testfor 2 ");
 	}
 	
+	@Test
+	public void NewTestfor() {
+		System.out.println("Retry newTestfor ");
+		System.out.println("Retry newTestfor 1");
+		System.out.println("Retry newTestfor 2 ");
+	}
+	
 
 }
