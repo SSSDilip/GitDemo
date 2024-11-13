@@ -9,6 +9,7 @@ public class DemoGit {
 		System.out.println("DemoGit Test ");
 		System.out.println("DemoGit Test 1");
 		System.out.println("DemoGit Test 2 ");
+		System.out.println("DemoGit Test 3 ");
 	}
 
 }
